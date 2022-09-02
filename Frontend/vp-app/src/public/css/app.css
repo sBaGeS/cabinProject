@@ -1,0 +1,35 @@
+.nav_ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333333;
+  }
+  
+  .nav_link {
+    float: left;
+  }
+  .nav_reg_login_link {
+    float: right;
+  }
+  li.nav_reg_login_link a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 16px;
+    text-decoration: none;
+  }
+   li.nav_link a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 16px;
+    text-decoration: none;
+  }
+  
+  li.nav_link a:hover {
+    background-color: #111111;
+  }
+  li.nav_reg_login_link a:hover {
+    background-color: #111111;
+  }
