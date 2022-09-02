@@ -1,2 +1,2 @@
-cd C:\Users\Pauli\Desktop\groupC\Frontend\vp-app
+cd C:\Users\Pauli\Desktop\cabinWebsite\cabinProject\Frontend\vp-app
 npm start
